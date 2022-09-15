@@ -14,3 +14,7 @@ body{
     color: rgb(45, 45, 234);   
     margin: 2rem 0;
 }
+button.accordion-button.collapsed {
+    color: darkviolet;
+    font-weight: 700;
+}
