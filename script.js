@@ -123,7 +123,7 @@ const start = () => {
       startTime = new Date().getTime();
     }
     count--;
-  }, 400);
+  }, 1000);
 };
 
 // START Countdown
