@@ -1,0 +1,16 @@
+*{
+    margin:  0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    
+}
+.header-title{
+    text-align: center;
+    font-size: 3vw;
+    font-weight: bold;
+    color: rgb(45, 45, 234);   
+    margin: 2rem 0;
+}
